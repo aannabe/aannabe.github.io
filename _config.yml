@@ -22,7 +22,11 @@ description: Personal website
 navbar-links:
   About Me: "aboutme"
   Papers:
+    - Google Scholar: "https://scholar.google.com/citations?user=qIi2NKIAAAAJ&hl=en&authuser=1"
   Online: 
+    - Email: "aannabe@ncsu.edu"
+    - Github: "https://github.com/aannabe"
+    - LinkedIn: "https://www.linkedin.com/in/annaberdiyev"
   Resume: 
   Books: 
   Resources:
