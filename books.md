@@ -4,4 +4,11 @@ title: Books
 subtitle: Compelling, Delightful, and Constructive
 ---
 
-![freakonomics](/cover_book/freakonomics.jpg =200x) ![animal_farm](/cover_book/animal_farm.jpg  =200x) ![quiet](/cover_book/quiet.jpg  =200x) 
+<p align="center">
+  <img src="/cover_book/freakonomics.jpg" width="200" height="300" />
+  <img src="/cover_book/animal_farm.jpg" width="200" height="300" />
+  <img src="/cover_book/the_pleasure_of_finding_things_out.jpg" width="200" height="300" />
+  <img src="/cover_book/quiet.jpg" width="200" height="300" />
+  <img src="/cover_book/surely_youre_joking_mr_feynman.jpg" width="200" height="300" />
+  <img src="/cover_book/what_do_you_care_what_other_people_think.jpg" width="200" height="300" />
+</p>
