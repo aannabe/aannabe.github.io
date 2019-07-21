@@ -27,7 +27,7 @@ navbar-links:
     - Github: "https://github.com/aannabe"
     - LinkedIn: "https://www.linkedin.com/in/annaberdiyev"
   Resume: "https://aannabe.github.io/resume"
-  Books: 
+  Books: "books"
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
