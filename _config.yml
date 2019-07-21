@@ -21,8 +21,7 @@ description: Personal website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Papers:
-    - Google Scholar: "https://scholar.google.com/citations?user=qIi2NKIAAAAJ&hl=en&authuser=1"
+  Papers: "https://scholar.google.com/citations?user=qIi2NKIAAAAJ&hl=en&authuser=1"
   Online: 
     - Email: "mailto:aannabe@ncsu.edu"
     - Github: "https://github.com/aannabe"
