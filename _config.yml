@@ -20,15 +20,15 @@ description: personal website
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "https://aannabe.github.io/"
   About Me: "aboutme"
   Papers: "https://scholar.google.com/citations?user=qIi2NKIAAAAJ&hl=en&authuser=1"
+  Resume: "https://aannabe.github.io/resume"
+  Books: "books"
   Online: 
     - Email: "mailto:aannabe@ncsu.edu"
     - Github: "https://github.com/aannabe"
     - LinkedIn: "https://www.linkedin.com/in/annaberdiyev"
-  Resume: "https://aannabe.github.io/resume"
-  Books: "books"
-  Home: "https://aannabe.github.io/"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
