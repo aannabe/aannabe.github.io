@@ -27,8 +27,7 @@ navbar-links:
     - Email: "mailto:aannabe@ncsu.edu"
     - Github: "https://github.com/aannabe"
     - LinkedIn: "https://www.linkedin.com/in/annaberdiyev"
-  Resume: 
-    - CV: "https://github.com/aannabe/aannabe.github.io/_docs/Annaberdiyev_CV.pdf"
+  Resume: "https://github.com/aannabe/aannabe.github.io/blob/master/_resume/index.html"
   Books: 
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
