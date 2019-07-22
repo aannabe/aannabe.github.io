@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-subtitle: Compelling, Delightful, and Constructive
+subtitle: compelling, delightful, and constructive
 ---
 
 <p align="center">
