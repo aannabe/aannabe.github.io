@@ -79,7 +79,7 @@ social-network-links:
   github: aannabe
   linkedin: annaberdiyev
   twitter: aannaberdi
-  #rss: true
+  rss: true
   #facebook: aannaberdi
   
 #  reddit: yourname
@@ -110,7 +110,7 @@ url-pretty: "aannabe.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-144274898-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -127,7 +127,7 @@ url-pretty: "aannabe.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+# disqus: "https-aannabe-github-io"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
