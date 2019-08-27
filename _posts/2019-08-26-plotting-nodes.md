@@ -5,7 +5,7 @@ image: /post-data/2019-08-26-plotting-nodes/O-CAS.jpg
 ---
 
 <p align="center">
-<img src="/post-data/2019-08-26-plotting-nodes/comparison.jpg" alt="nodes comparison" title="nodes" width="400" height="200" />
+<img src="/post-data/2019-08-26-plotting-nodes/comparison.jpg" width="400" height="200" />
 </p>
 
 
@@ -30,7 +30,6 @@ method { VMC
 include qwalk.sys
 trialfunc { include qwalk.slater }
 ```
-
 
 4. Use QWalk NODES method to scan the space. 
 One can use 1 electron or 2 (up and down) electrons to scan. 
