@@ -63,6 +63,10 @@ Also this allows you fine tune parameters which might be impossible with GUI, eg
 You can also change final image size under `# Display settings` in your script.vmd by adding `display resize 1024 1024`.
 
 7. Load script.vmd for HF and CASSCF cases and File > Render > Tachyon (internal in-memory rendering).
+It might be useful to turn on all Light sources for this.
+
+8. I then used Krita to put images together and add text.
+
 
 
 
