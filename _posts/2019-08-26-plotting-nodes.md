@@ -5,7 +5,7 @@ image: /post-data/2019-08-26-plotting-nodes/O-CAS.jpg
 ---
 
 <p align="center">
-<img src="/post-data/2019-08-26-plotting-nodes/comparison.jpg" width="600" height="300" />
+<img src="/post-data/2019-08-26-plotting-nodes/comparison.jpg" width="640" height="320" alt="Comparison of Nodes" title="Comparison of Nodes" />
 </p>
 
 
@@ -70,7 +70,7 @@ You can also change final image size under `# Display settings` in your script.v
 7. Load script.vmd for HF and CASSCF cases and File > Render > Tachyon (internal in-memory rendering).
 It might be useful to turn on all Light sources for this.
 
-8. I then used Krita to put images together and add text.
+8. I then used [Krita](https://krita.org/en/) to put images together and add text.
 
 
 
