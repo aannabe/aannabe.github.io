@@ -4,7 +4,7 @@ title: Plotting molecular wave function nodes
 image: /post-data/2019-08-26-plotting-nodes/O-CAS.jpg
 ---
 
-<img src="/post-data/2019-08-26-plotting-nodes/1.jpg" alt="nodes" title="nodes" width="150" height="100" />
+<img src="/post-data/2019-08-26-plotting-nodes/1.jpg" alt="nodes" title="nodes" width="200" height="100" />
 
 Recently, I had to plot some molecular wave function nodes for a paper we were working on.
 My goal was to illustrate the change in nodal structure from HF to exact nodes.
