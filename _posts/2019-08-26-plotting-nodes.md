@@ -5,7 +5,7 @@ image: /post-data/2019-08-26-plotting-nodes/O-CAS.jpg
 ---
 
 <p align="center">
-<img src="/post-data/2019-08-26-plotting-nodes/1.jpg" alt="nodes comparison" title="nodes" width="200" height="100" />
+<img src="/post-data/2019-08-26-plotting-nodes/comparison.jpg" alt="nodes comparison" title="nodes" width="400" height="200" />
 </p>
 
 
