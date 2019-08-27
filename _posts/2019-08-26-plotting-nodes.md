@@ -4,6 +4,8 @@ title: Plotting molecular wave function nodes
 image: /post-data/2019-08-26-plotting-nodes/O-CAS.jpg
 ---
 
+![Node Comparison](/post-data/2019-08-26-plotting-nodes/1.jpg)
+
 Recently, I had to plot some molecular wave function nodes for a paper we were working on.
 My goal was to illustrate the change in nodal structure from HF to exact nodes.
 Here we will go through the steps to achieve this.
@@ -25,6 +27,7 @@ method { VMC
 include qwalk.sys
 trialfunc { include qwalk.slater }
 ```
+
 
 4. Use QWalk NODES method to scan the space. 
 One can use 1 electron or 2 (up and down) electrons to scan. 
@@ -66,7 +69,6 @@ You can also change final image size under `# Display settings` in your script.v
 It might be useful to turn on all Light sources for this.
 
 8. I then used Krita to put images together and add text.
-
 
 
 
