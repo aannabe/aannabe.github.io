@@ -43,7 +43,7 @@ Here we use 1st (up) and 6th (down) electrons.
 method {
     NODES
     resolution 0.05
-    minmax {-5.0.0 5.0.0 -5.0.0 5.0.0 -5.0.0 5.0.0}
+    minmax {-5.0 5.0 -5.0 5.0 -5.0 5.0}
     DOUBLEMOVES { 1 1 1}
     contours { 1 6 }
     readconfig qwalk.hf.config
